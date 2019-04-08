@@ -1,4 +1,4 @@
-# Test Case for Web Application
+# Test Cases for Web Application
 
 List of  Test Cases For Web Application Penetation Testing.
 
